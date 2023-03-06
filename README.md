@@ -18,5 +18,16 @@ Analyzing Twitch data to determine most popular channels, streamers, and games. 
 <br />
 
 6-Amazon Prime Video: I analyzed Amazon Prime's movie library to determine the best movies and television shows, as well as the most produced directors, and summarised some of the service's history, including how it has grown from a small business to one of the world's largest competitors today.
+<br />
 
 7-USA Real Estate: I studied data from Realtor.com on 100,000 houses. I attempted to determine the number of houses for sale in each state and city, the most expensive and cheapest states and cities, the best cities for housing, or for small and large families, and the best areas to buy land and build houses on it, and a few other useful information.
+<br />
+
+8-Bestseller Book in Amazon: This project analyzes Amazon bestseller data to find out the best books, best categories, authors, and a lot of other important information
+<br />
+
+9-Goodreads: In this project, I analyzed the data of the goodreads site to evaluate books to find out the best books through the opinion of the interactors on the site, the best categories, the best authors, and the most suitable books for different age groups.
+<br />
+
+
+
